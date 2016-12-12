@@ -1,8 +1,6 @@
 /*
  * Route.h
- *
- *  Created on: Dec 11, 2016
- *      Author: nshinde
+ * Given source and destination, this will find the entire path using RT of each router
  */
 
 #ifndef ROUTE_H_
