@@ -10,8 +10,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "Utilities/Util.h"
-#include "Utilities/IPAddress.h"
+#include "Util.h"
+#include "IPAddress.h"
 #include <set>
 
 class Link {
