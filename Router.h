@@ -17,8 +17,8 @@
 #include "Interface.h"
 #include "RoutingTable.h"
 
-#include "Utilities/Util.h"
-#include "Utilities/IPAddress.h"
+#include "Util.h"
+#include "IPAddress.h"
 
 class Router {
 public:
