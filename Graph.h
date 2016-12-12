@@ -14,8 +14,8 @@
 #include "Interface.h"
 #include "Router.h"
 
-#include "Utilities/Util.h"
-#include "Utilities/IPAddress.h"
+#include "Util.h"
+#include "IPAddress.h"
 class Link;
 
 class Graph {
